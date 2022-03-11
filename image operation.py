@@ -1,3 +1,4 @@
+# 컴퓨터공학부 정세빈 202103095
 from scipy.misc import imread, imsave, imresize
 
 img = imread('cat.jpg')
